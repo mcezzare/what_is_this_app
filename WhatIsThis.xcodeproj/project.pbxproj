@@ -19,6 +19,7 @@
 		67BFC8C22BEFFC0C00DB3744 /* GoogleGenerativeAI in Frameworks */ = {isa = PBXBuildFile; productRef = 67BFC8C12BEFFC0C00DB3744 /* GoogleGenerativeAI */; };
 		67BFC8FB2BEFFD5100DB3744 /* GenerativeAI-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 67BFC8FA2BEFFD5100DB3744 /* GenerativeAI-Info.plist */; };
 		67BFC8FD2BEFFD9F00DB3744 /* APIKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67BFC8FC2BEFFD9F00DB3744 /* APIKey.swift */; };
+		67BFC8FF2BF020E500DB3744 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67BFC8FE2BF020E500DB3744 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		67BFC8B32BEFF29600DB3744 /* WhatIsThisUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatIsThisUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		67BFC8FA2BEFFD5100DB3744 /* GenerativeAI-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GenerativeAI-Info.plist"; sourceTree = "<group>"; };
 		67BFC8FC2BEFFD9F00DB3744 /* APIKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIKey.swift; sourceTree = "<group>"; };
+		67BFC8FE2BF020E500DB3744 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../../Desktop/AppIcons/Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				67BFC8962BEFF29200DB3744 /* Main.storyboard */,
 				67BFC8FC2BEFFD9F00DB3744 /* APIKey.swift */,
 				67BFC8992BEFF29500DB3744 /* Assets.xcassets */,
+				67BFC8FE2BF020E500DB3744 /* Assets.xcassets */,
 				67BFC89B2BEFF29500DB3744 /* LaunchScreen.storyboard */,
 				67BFC8FA2BEFFD5100DB3744 /* GenerativeAI-Info.plist */,
 				67BFC89E2BEFF29500DB3744 /* Info.plist */,
@@ -249,6 +252,7 @@
 				67BFC89A2BEFF29500DB3744 /* Assets.xcassets in Resources */,
 				67BFC8FB2BEFFD5100DB3744 /* GenerativeAI-Info.plist in Resources */,
 				67BFC8982BEFF29200DB3744 /* Main.storyboard in Resources */,
+				67BFC8FF2BF020E500DB3744 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
