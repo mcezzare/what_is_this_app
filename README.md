@@ -27,6 +27,7 @@ O objetivo a longo prazo é transformar "What is this" em um aplicativo completo
 	◦	Reconhecimento de objetos específicos e cenas.
 	◦	Transcrição de texto presente nas imagens.
 	◦	Integração com GPS para fornecer informações contextuais sobre a localização.
+ 	◦	Internacionalizacão
 
 ## Notas adicionais 
 A idéia inicial era abrir o app já iniciando a camera e ir falando em tempo real tudo que está ao redor. Fica para uma próxima oportunidade. 
