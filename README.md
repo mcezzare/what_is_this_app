@@ -10,10 +10,11 @@ https://github.com/mcezzare/what_is_this_app/assets/3101760/ac7a547c-502d-4c4d-b
 
 What is this é um aplicativo iOS desenvolvido durante a Semana de Imersão da Alura e Google com o objetivo de tornar o mundo visual mais acessível a todos, especialmente para pessoas com deficiência visual.
 
-Utilizando o poder da Gemini AI do Google, o aplicativo analisa fotos tiradas pelo usuário e gera descrições detalhadas em português, que são então "lidas" em voz alta para o usuário.
+Utilizando o poder da Gemini AI do Google, o aplicativo analisa fotos tiradas pelo usuário, ou selecionadas da galeria de fotos e gera descrições detalhadas em português, que são então "lidas" em voz alta para o usuário.
 
 ## Funcionalidades:
 	•	Capture e Analise: Tire fotos usando a câmera do seu dispositivo iOS. O aplicativo, então, utiliza a API da Gemini AI para analisar a imagem e gerar uma descrição detalhada em português.
+	O usuário pode selecioanr fotos da sua galeria de fotos.
 	•	Ouça a Descrição: O aplicativo lê em voz alta a descrição da imagem, permitindo que usuários com deficiência visual "vejam" o mundo ao seu redor através da descrição gerada pela IA.
  
 ## Simplicidade com um Grande Objetivo:
