@@ -39,6 +39,13 @@ class ViewController: UIViewController, UINavigationControllerDelegate, UIImageP
     
     @IBOutlet var imageView: UIImageView!
     
+    @IBAction func galleryButton(_ sender: UIButton) {
+        imagePicker = UIImagePickerController()
+        imagePicker.delegate = self
+        imagePicker.sourceType = .photoLibrary
+        imagePicker.allowsEditing = false
+        present(imagePicker,animated:true,completion: nil)
+    }
     @IBAction func analyzeButton(_ sender: UIButton) {
         Task { @MainActor in
             await analyzeImage()
@@ -55,7 +62,7 @@ class ViewController: UIViewController, UINavigationControllerDelegate, UIImageP
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        speech(text: "Olá, tire uma foto e deixe eu analisar essa imagem pra você.")
+        speech(text: "Olá, tire uma foto ou escolha de sua galeria e deixe eu analisar essa imagem pra você.")
     }
     
     
