@@ -6,6 +6,12 @@ Visualizacão do app *Ligue o som*
 https://github.com/mcezzare/what_is_this_app/assets/3101760/ac7a547c-502d-4c4d-be76-0c45830718c8
 
 
+Versão 1.2
+
+https://github.com/mcezzare/what_is_this_app/assets/3101760/7a268fc9-9449-4a45-9554-e368741fa10b
+
+
+
 # What is this : Descrevendo o Mundo para Todos
 
 What is this é um aplicativo iOS desenvolvido durante a Semana de Imersão da Alura e Google com o objetivo de tornar o mundo visual mais acessível a todos, especialmente para pessoas com deficiência visual.
